@@ -1,0 +1,54 @@
+h1 {
+    color: deepskyblue;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    color: rgb(255, 255, 255);    
+}
+
+div.card {
+    color: deepskyblue;
+}
+
+/* Build Steps */
+
+.step {
+    border: 3px solid deepskyblue;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+.scroll{
+    height: 10rem;
+    overflow: auto;
+}
+
+/* download button */
+
+download {
+    border-radius: 10px;
+    width: 100px;
+    line-height: 22px;
+}
+
+/* format help form */
+form{
+    border: 3px solid deepskyblue;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+input[type=text]{
+    width: 100%;
+    border-radius: 10px;
+}
+
+input[name="issue"]{
+    
+}
+
+input[type=button]{
+    border-radius: 10px;
+}
